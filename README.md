@@ -1,7 +1,7 @@
 A python program which will draw an image using ASCII characters.
 
 Dependencies:
-	cv2(OpenCV)
+	cv2
 
  To run the program
 
