@@ -1,4 +1,9 @@
-A python program which will draw an image using ASCII characters. To run the program
+A python program which will draw an image using ASCII characters.
+
+Dependencies:
+	cv2(OpenCV)
+
+ To run the program
 
 	>> python imageToChar.py image.jpg
 
